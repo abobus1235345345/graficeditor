@@ -1,0 +1,17 @@
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\bin\Debug\paint.exe.config
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\bin\Debug\paint.exe
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\bin\Debug\paint.pdb
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\Ask.g.cs
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\MainWindow.g.cs
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\App.g.cs
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint_MarkupCompile.cache
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint_MarkupCompile.lref
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\Ask.baml
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\MainWindow.baml
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.g.resources
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.exe
+C:\Users\ig522\OneDrive\Рабочий стол\NotPaint-master\paint\obj\Debug\paint.pdb
